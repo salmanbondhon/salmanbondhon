@@ -67,7 +67,7 @@ Building web applications and ensuring software quality through testing and debu
 
 ### 🔧 Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,jira,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,jira,postman,vscode" />
 </p>
 
 
@@ -77,8 +77,9 @@ Building web applications and ensuring software quality through testing and debu
 <div align="center">
 Connect With Me
 </div>
+
 <p align="center">
-  Connect With Me
+  
   <a href="https://github.com/salmanbondhon">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
