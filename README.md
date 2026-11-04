@@ -1,6 +1,16 @@
-# Hi, I'm Md. Salman Karim Bondhon 👋
 
-### Computer Science Graduate | Junior .NET Developer | SQA Engineer
+<div align="center">
+
+# 👋 Hi, I'm Salman Karim Bondhon
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Junior+.NET+Developer;SQA+Engineer;Full+Stack+.NET+Developer;Software+Testing+Enthusiast" alt="Typing SVG" />
+</a>
+
+**Building applications • Testing software • Learning continuously**
+
+</div>
+
 
 I'm a Computer Science and Engineering graduate from American International University-Bangladesh (AIUB), passionate about software development and software quality assurance.
 
