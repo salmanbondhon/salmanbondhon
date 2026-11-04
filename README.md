@@ -15,24 +15,22 @@
 
 <div align="center">
 
-🎓 Computer Science & Engineering Graduate from **AIUB**
-
-💻 Passionate about **.NET Development** and **Software Quality Assurance**.
-
-🚀 Building web applications and ensuring software quality through testing and debugging.
+Computer Science & Engineering Graduate from **AIUB**
+Passionate about **.NET Development** and **Software Quality Assurance**.
+Building web applications and ensuring software quality through testing and debugging.
 
 </div>
 
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,js,java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -41,18 +39,18 @@
   <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
 </p>
 
-### 🗄️ Database
+### Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### 🧪 Software Testing & QA
+### Software Testing & QA
 <p align="left">
   <img src="https://img.shields.io/badge/Manual_Testing-2E8B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Functional_Testing-228B22?style=for-the-badge" />
@@ -74,9 +72,10 @@
 
 
 
-### 📫 Connect With Me
+### 
 
 <p align="center">
+  Connect With Me
   <a href="https://github.com/salmanbondhon">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
