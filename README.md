@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Salman Karim Bondhon
+# Hi, I'm Md. Salman Karim Bondhon
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Junior+.NET+Developer;SQA+Engineer;Full+Stack+.NET+Developer;Software+Testing+Enthusiast" alt="Typing SVG" />
@@ -76,11 +76,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanbondhon&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
