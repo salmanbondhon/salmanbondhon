@@ -25,9 +25,10 @@ Building web applications and ensuring software quality through testing and debu
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-<p align="left">
+
+<p>
   <img src="https://skillicons.dev/icons?i=cs,js,java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ### Backend Development
@@ -51,11 +52,15 @@ Building web applications and ensuring software quality through testing and debu
 </p>
 
 ### Software Testing & QA
-<p align="left">
+
+<p>
   <img src="https://img.shields.io/badge/Manual_Testing-2E8B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Functional_Testing-228B22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Test_Case_Design-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Test_Case_Design-007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bug_Reporting-DC3545?style=for-the-badge" />
+</p>
+
+<p>
   <img src="https://skillicons.dev/icons?i=postman,selenium" />
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
 </p>
@@ -69,11 +74,9 @@ Building web applications and ensuring software quality through testing and debu
 
 
 
-
-
-
-### 
-
+<div align="center">
+Connect With Me
+</div>
 <p align="center">
   Connect With Me
   <a href="https://github.com/salmanbondhon">
@@ -88,7 +91,7 @@ Building web applications and ensuring software quality through testing and debu
 </p>
 
 <p align="center">
-  📞 **Phone:** +8801622992894
+  📞 <strong>Phone:</strong> +8801622992894
 </p>
 
 ---
