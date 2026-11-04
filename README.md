@@ -24,6 +24,11 @@
 </div>
 
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=salmanbondhon&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
 ## 🛠️ Technical Skills
 
 ### Programming Languages
