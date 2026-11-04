@@ -15,9 +15,11 @@
 
 <div align="center">
 
-Computer Science & Engineering Graduate from **AIUB**
-Passionate about **.NET Development** and **Software Quality Assurance**.
-Building web applications and ensuring software quality through testing and debugging.
+🎓 Computer Science & Engineering Graduate from **AIUB**
+
+💻 Passionate about **.NET Development** and **Software Quality Assurance**.
+
+🚀 Interested in building web applications and ensuring software quality through testing and debugging.
 
 </div>
 
@@ -65,9 +67,9 @@ Building web applications and ensuring software quality through testing and debu
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
 </p>
 
-### 🔧 Tools & Technologies
+### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
@@ -92,7 +94,7 @@ Building web applications and ensuring software quality through testing and debu
   </a>
 </p>
 
-<p align="center">
+<p>
   📞 <strong>Phone:</strong> +8801622992894
 </p>
 
